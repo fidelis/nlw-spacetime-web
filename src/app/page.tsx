@@ -1,7 +1,7 @@
-import Image from 'next/image'
-
 export default function Home() {
   return (
-    <h1>Hello World</h1>
+    <div className="h-screen bg-zinc-950 text-zinc-50">
+      <h1>Sua cápsula do tempo</h1>
+    </div>
   )
 }
